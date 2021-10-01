@@ -7902,7 +7902,7 @@ header {
     text-transform: uppercase; }
     @media (min-width: 992px) {
       .wrap .about-desc .bold-text {
-        font-size: 10em; } }
+        font-size: 9em; } }
     @media (max-width: 991.98px) {
       .wrap .about-desc .bold-text {
         display: none; } }
